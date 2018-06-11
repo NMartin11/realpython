@@ -1,0 +1,1 @@
+from decorator2 import my_decorator
